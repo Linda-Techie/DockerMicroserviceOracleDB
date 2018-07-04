@@ -1,0 +1,3 @@
+NODE_ORACLEDB_USER=<username>
+NODE_ORACLEDB_PASSWORD=<your_password>
+NODE_ORACLEDB_CONNECTIONSTRING=<ip_address>/<sid>

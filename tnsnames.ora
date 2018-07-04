@@ -1,0 +1,11 @@
+LISTENER_1 =
+  (ADDRESS = (PROTOCOL = TCP)(HOST = 10.nnn.nnn.nnn)(PORT = 1521))
+
+ORCL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 10.nnn.nnn.nnn)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = orcl)
+    )
+  )
